@@ -17,6 +17,7 @@ A young man looking for a place to practice his knowledge or just his calling. D
 * CSS
 * Git
 * VS Code
+* React (basics)
 
 ------------------- 
 
