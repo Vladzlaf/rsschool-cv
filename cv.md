@@ -1,5 +1,5 @@
 # Manukov Vladislav
-##### Hi, my name is Vlad, I love bodybuilding and programming!
+##### Hi, my name is Vlad, I love sport and programming!
 -------------
 ### Contacts 
 * Phone: +375296450004 
@@ -9,8 +9,7 @@
 
 ---------------
 ### About me
-A young man looking for a place to practice his knowledge or just his calling. During my studies, I gained experience of participating in various scientific conferences, as well as other educational projects and competitions. I also actively took various courses in search of myself and was very attracted to programming. Of the strengths I can single out stress resistance, diligence, the ability to adapt to any situation, self-confidence. I am a champion of BSU in swimming, as well as a responsible and executive student with 7 in the GPA and I am also fond of programming. Therefore, I can say for sure that I know about hard work and competent prioritization are. I try to develop comprehensively, I am interested in politics, psychology, foreign languages, literature and of course programming. Thank you!
-
+A young man looking for a place to practice his knowledge or just his calling. During my studies, I gained experience of participating in various scientific conferences, as well as other educational projects and competitions. I also actively took various courses in search of myself and was very attracted to programming. Of the strengths I can single out stress resistance, diligence, the ability to adapt to any situation, self-confidence. I am a champion of BSU in swimming, as well as a responsible and executive student with 7 in the GPA and I am also fond of programming. Therefore, I can say for sure that I know about hard work and competent prioritization are. I try to develop comprehensively, I am interested in politics, psychology, foreign languages, literature and of course programming.
 ----------------------
 ### Skills 
 * JS basics
